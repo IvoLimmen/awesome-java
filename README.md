@@ -261,7 +261,7 @@ A curated list of awesome Java frameworks, libraries and software. Inspired by o
 
 * [Eclipse](http://www.eclipse.org/) - Established, open-souce project with support for lots of plugins and languages.
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) - Supports a lot of JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
-* [NetBeans](https://netbeans.org/) - Provides integration for several  Java SE and EE features starting with database access and servers to HTML5 and AngularJS.
+* [NetBeans](https://netbeans.apache.org/) - Provides integration for several Java SE and EE features starting with database access and servers to HTML5 and AngularJS now maintained by Apache.
 
 ## Imagery
 
