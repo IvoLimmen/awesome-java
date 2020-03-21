@@ -129,6 +129,9 @@ A curated list of awesome Java frameworks, libraries and software. Inspired by o
 * Frameworks and libraries that simplify reading/writing CSV data.*
  
 * [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers) - One of the fastest and most feature-complete CSV parsers for Java. Also comes with parsers for TSV and fixed width records.
+* [Flatpack](http://flatpack.sourceforge.net/) - flat file parser that handles CSV (including values containing ','), fixed length and custom delimiters. The formats can be configured in XML, it is fast and released under Apache license 2.0. 
+* [Commons CSV](http://commons.apache.org/proper/commons-csv/) - Commons CSV reads and writes files in variations of the Comma Separated Value (CSV) format.
+* [OpenCSV](http://opencsv.sourceforge.net/) - Opencsv is an easy-to-use CSV (comma-separated values) parser library for Java
 
 ## Database
 
