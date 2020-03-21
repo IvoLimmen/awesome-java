@@ -237,13 +237,14 @@ A curated list of awesome Java frameworks, libraries and software. Inspired by o
 * [jMonkeyEngine](http://jmonkeyengine.org/) - Game engine for modern 3D development.
 * [libGDX](http://libgdx.badlogicgames.com/) - All-round cross-platform, high-level framework.
 * [LWJGL](http://lwjgl.org/) - Robust framework that abstracts libraries like OpenGL/CL/AL.
+* [FXGL](https://almasb.github.io/FXGL/) - Open source JavaFX game development engine.
 
 ## GUI
 
 *Libraries to create modern graphical user interfaces.*
 
-* [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - The successor of Swing.
-* [Scene Builder](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-info-2157684.html) - Visual layout tool for JavaFX applications.
+* [JavaFX](https://openjfx.io/) - The successor of Swing.
+* [Scene Builder](https://gluonhq.com/products/scene-builder/) - Visual layout tool for JavaFX applications.
 
 ## High Performance
 
